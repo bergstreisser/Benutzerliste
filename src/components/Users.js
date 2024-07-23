@@ -19,7 +19,7 @@ class Users extends React.Component {
         } else {
             return (
                 <div className="user">
-                    <h3>{"keine User vorhanden..."}</h3>
+                    <h3>{"Die Benutzerliste ist leer..."}</h3>
                 </div>
             )
         }

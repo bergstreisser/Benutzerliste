@@ -10,16 +10,16 @@ class App extends React.Component {
             users: [
                 {
                     id: 1,
-                    vorname: "Irene",
-                    nachnahme: "Bergi",
+                    vorname: "Test",
+                    nachnahme: "Müller",
                     nachricht: "Hallo das ist eine Nachricht...",
                     alter: 45,
                     isHappy: false
                 },
                 {   
                     id: 2,
-                    vorname: "Leon",
-                    nachnahme: "Bergi",
+                    vorname: "Test",
+                    nachnahme: "Meier",
                     nachricht: "Hallo das ist noch eine Nachricht...",
                     alter: 20,
                     isHappy: true
